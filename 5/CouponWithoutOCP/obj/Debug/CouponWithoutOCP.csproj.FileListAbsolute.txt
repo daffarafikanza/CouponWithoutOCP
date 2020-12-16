@@ -1,0 +1,7 @@
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe.config
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.pdb
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\5\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.pdb
